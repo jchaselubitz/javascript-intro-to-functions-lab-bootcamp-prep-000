@@ -13,9 +13,7 @@ shout(lowercase) {
   console.log(lowercase)
 }
 
-whisper(uppercase) {
-  console.log(string(uppercase))
-}
+
 
 
 function logShout(string){
