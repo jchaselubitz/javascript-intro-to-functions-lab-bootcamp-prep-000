@@ -14,15 +14,12 @@ function logShout(string){
   console.log(string)
 }
 
-
 function sayHiToGrandma(string) {
-  if `string` === "I love you, Grandma." {
+  if (string === "I love you, Grandma.") {
     return "I love you, too."
-  } else {
-    if lowercase.toLowerCase === lowercase {
+  } else if (lowercase.toLowerCase === lowercase) {
       return "I can't hear you"
-    } else {
-      if uppercase.toUpperCase === uppercase {
+    } else if (uppercase.toUpperCase === uppercase) {
         return "YES INDEED"
       }
   }
