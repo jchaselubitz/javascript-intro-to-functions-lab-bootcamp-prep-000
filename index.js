@@ -9,9 +9,9 @@ function whisper(string) {
   return string.toLowerCase()
 }
 
-shout(lowercase) {
-  console.log(lowercase)
-}
+//shout(lowercase) {
+//  console.log(lowercase)
+//}
 
 
 
