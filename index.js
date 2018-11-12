@@ -10,10 +10,11 @@ function whisper(string) {
 }
 
 function logShout(string){
-  string = string.toUpperCase
+  var string = string.toUpperCase
   console.log(string)
 }
 
+/*
 function sayHiToGrandma(string) {
   if `string` === "I love you, Grandma." {
     return "I love you, too."
